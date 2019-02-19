@@ -1,0 +1,43 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: #008ed5 3px solid; }
+
+#home-section {
+  background: url("../img/notes-macbook-study-conference.jpg") no-repeat;
+  max-height: 700px;
+  background-size: cover;
+  background-attachment: fixed; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.6); }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section .fa {
+    color: #008ed5;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px; }
+
+#learn-section .fa {
+  color: white;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#share-section .fa {
+  color: #008ed5;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#create-section .fa {
+  color: white;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
